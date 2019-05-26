@@ -5,6 +5,11 @@
       A project that fails. A lot. See
       <a href="https://medium.com/@Meeshkan" target="_blank" rel="noopener">this</a>.
     </p>
+    <h3>Ways to fail</h3>
+    <ul>
+      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">a</a></li>
+      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-typescript" target="_blank" rel="noopener">b</a></li>
+    </ul>
   </div>
 </template>
 
